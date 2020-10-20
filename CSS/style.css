@@ -1,0 +1,21 @@
+body{
+  color: white;
+  text-align: center;
+  background: black
+}
+
+h3{
+  text-decoration: underline overline
+}
+
+h4{
+  text-decoration: underline
+}
+
+a{
+  color: paleturquoise
+}
+
+span{
+  border: 5px solid paleturquoise
+}
