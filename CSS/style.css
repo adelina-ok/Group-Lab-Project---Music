@@ -19,3 +19,21 @@ a{
 span{
   border: 5px solid paleturquoise
 }
+
+ h,p,a{
+    font-family:"Verdana"
+       }
+
+table,th,td {
+             text-align:center;
+              padding:5px;
+		          border:1px solid black
+       }
+        
+  table.center{
+    margin-left:auto; 
+    margin-right:auto;
+       }
+  #t01 {
+	  background-color:turquoise
+      }
