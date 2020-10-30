@@ -37,3 +37,24 @@ table,th,td {
   #t01 {
 	  background-color:turquoise
       }
+      
+.alice {
+  background-color: powderblue;
+  color: white;
+  border: 5px solid crimson;
+  margin: 40px;
+  padding: 40px;
+}
+.mac{
+  background-color: turquoise;
+  color: white;
+  border: 5px solid paleturquoise;
+  margin: 40px;
+  padding: 40px;
+ }
+ .miss {
+  background-color:crimson;
+  color: white;
+  border: 5px solid white;
+  margin: 40px;
+  padding: 40px;
